@@ -1,4 +1,4 @@
- {
+  {
   "name": "fabric-to-psd",
   "version": "1.0.0",
   "description": "Convert Fabric.js JSON to PSD",
@@ -11,6 +11,9 @@
     "express": "^4.18.2"
   },
   "engines": {
-    "node": "18.x"
-  }
+    "node": "20.18.0",
+    "npm": "9.8.0"
+  },
+  "author": "You",
+  "license": "MIT"
 }
